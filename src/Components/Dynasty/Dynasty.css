@@ -1,0 +1,64 @@
+.dyn-main{
+    height: 820px;
+}
+.dyn-head{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    height: 130px;
+}
+.dyn-head h1{
+    font-family: 'Playfair Display', serif;
+    font-weight: bolder;
+    font-size: 45px;
+    letter-spacing: -2px;
+    color: rgb(85, 108, 65, 0.75);
+    height: 60px;
+}
+.dyn-head hr{
+    width: 100px;
+    margin: auto;
+    height: 2px;
+    background-color: rgb(235, 235, 58);
+    border-style: none;
+    border-radius: 8px;
+}
+.dyn-content{
+    display: flex;
+    width: 75%;
+    margin: auto;
+}
+.dyn-con{
+    width: 25%;
+    margin: auto;
+}
+.dyn-con img{
+    border-radius: 20px;
+    max-height: 500px;
+}
+.dyn-con h1{
+    font-family: 'Playfair Display', serif;
+    font-weight: bolder;
+    font-size: 40px;
+    letter-spacing: -2px;
+    color: rgb(85, 108, 65, 0.75);
+    text-align: center;
+    height: 60px;
+}
+.dyn-con2{
+    margin-top: 10px;
+}
+.dyn-con h3{
+    font-family: 'Playfair Display', serif;
+    font-weight: lighter;
+    font-size: 26px;
+    letter-spacing: -2px;
+    color: rgb(85, 108, 65, 0.85);
+}
+.dyn-con p{
+    font-family: sans-serif;
+    font-weight: inherit;
+    font-size: 20px;
+    letter-spacing: -1px;
+    color: rgb(85, 108, 65, 0.65);
+}

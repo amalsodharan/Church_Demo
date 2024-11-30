@@ -1,0 +1,52 @@
+.saint-main{
+    height: 1000px;
+}
+.saint-head{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+.saint-head h1{
+    font-family: 'Playfair Display', serif;
+    font-weight: 700;
+    font-size: 40px;
+    letter-spacing: -2px;
+    color: rgb(85, 108, 65, 0.75);
+    height: 60px;
+}
+.saint-head hr{
+    width: 100px;
+    margin: auto;
+    height: 2px;
+    background-color: rgb(235, 235, 58);
+    border-style: none;
+    border-radius: 8px;
+}
+.saint-content{
+    display: flex;
+    width: 70%;
+    margin: auto;
+    padding-top: 80px;
+}
+.left-head h3{
+    margin-top: 10px;
+    font-family: 'Playfair Display', serif;
+    font-weight: 900;
+    font-size: 30px;
+    letter-spacing: -2px;
+    color: rgb(85, 108, 65, 0.75);
+}
+.left-body h4{
+    font-size: 20px;
+    font-weight: 400;
+    font-family: "Armata", Sans-serif;
+    line-height: 43px;
+    color: #536942;
+    text-align: justify;
+    margin-top: 10px;
+}
+.bish-img{
+    max-height: 600px;
+    margin-left: 15px;
+    border-radius: 70px;
+}

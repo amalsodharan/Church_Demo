@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.wel-main{
+    height: 790px;
+}
+.wel-main h2{
+    text-align: center;
+    margin-top: 70px;
+    font-size: 40px;
+    font-family: 'Playfair Display', serif;
+    font-weight: 700;
+    color: rgb(85, 108, 65, 0.75);
+}
+.wel-con{
+    width: 70%;
+    margin: auto;
+}
+.wel-main h3{
+    font-family: 'Armata', Sans-serif;
+    margin-top: 40px;
+    font-size: 28px;
+    text-align: justify;
+    letter-spacing: -2px;
+    line-height: 43px;
+    font-weight: lighter;
+    color: #536942;
+    opacity: .7;
+}
